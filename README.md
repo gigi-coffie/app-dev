@@ -1,2 +1,3 @@
 # app-dev
-My first repository
+My favorite series:
+## Katekyo Hitman Reborn! (Home Tutor Hitman Reborn!)
