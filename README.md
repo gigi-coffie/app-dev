@@ -11,7 +11,6 @@ Theatrical release poster of the *Harry Potter and the Deathly Hallows - Part 1*
 
 From the novel series by J. K. Rowling, The Harry Potter film series were based on the seven consequent fantasy novels following Harry Potter as he is introduced to the world of magic. The series is produced and distributed by Warner Bros. Pictures and consists of eight fantasy films following the novels. The Harry Potter movies were one of the most successful cinematic franchises of all time, the movies being highest-grossing films at the time of their releases. 
 
-
 ***List of Movie Films***
 | **Film** | **Year** | **Novel** |
 | --------------- | -------- | --------------- |
